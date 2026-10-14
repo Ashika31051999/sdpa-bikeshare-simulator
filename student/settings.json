@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./student"
+    ],
+    "python.analysis.typeCheckingMode": "off"
+}
